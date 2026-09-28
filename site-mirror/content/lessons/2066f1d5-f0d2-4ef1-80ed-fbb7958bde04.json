@@ -1,0 +1,37 @@
+{
+  "id": "2066f1d5-f0d2-4ef1-80ed-fbb7958bde04",
+  "module_id": "cdb33390-7a79-48d0-a9e4-acd32a53cae3",
+  "lesson_key": "f5484230",
+  "title": "Маятник",
+  "content": "<p>Щоб залишитися в плюсі при переході на нову \"десятку\", використовується техніка маятника.<br><span style=\"font-size: 0.95rem;\"><span style=\"color: var(--warning);\">Маятник</span> - це відкат за ціною на 2-3 долари, щоб зробити додатковий продаж перед підвищенням.<br></span><span style=\"font-size: 0.95rem;\"><span style=\"color: var(--warning);\"><br>Приклад:</span>\nти продав за 19$\n<br>потім продаєш за 17$<br>і після цього знову виходиш на 19$ з переходом до 21$</span></p>\n<p>Фан набагато охочіше купить за 17$<br>потім знову за 19$, тому що це вже знайома ціна<br>і перехід на 21$ буде сприйматися легше</p>\n<p>Навіть якщо фан трохи гальмує, цей підхід допомагає не втратити продаж.</p>\n<p>Класичний маятник.<br><span style=\"font-size: 0.95rem;\">Таким чином ти збільшуєш глибину чека.<br></span><span style=\"font-size: 0.95rem;\">Це один з улюблених прийомів досвідчених секстерів.</span></p><p><span style=\"font-size: 0.95rem;\"><img src=\"https://nextmodels.space/storage/lesson-images/uploads/a2db2a0f-ef10-4e31-bf81-44460dfe2388.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"max-width:100%;border-radius:8px;margin:12px 0;border:1px solid #2a2f42;cursor:zoom-in;\"></span></p><p><strong><span style=\"font-size: 18px;\"><span style=\"color: var(--warning);\">Важливо</span></span><br></strong>не потрібно намагатися одразу продавати за 200$\nрухайся поступово<br><span style=\"font-size: 0.95rem;\">Будь стриманим і розважливим.<br></span><span style=\"font-size: 0.95rem;\">Постійні клієнти в підсумку платять у 2 рази більше.</span></p><p></p><p><span style=\"font-size: 0.95rem;\"><br></span></p>\n<p><a href=\"https://fs1.sintegrum.com/api/v1/files/0-PRHAwirTiUabhbL9T1NFxpViVIX5od\"></a></p>\n",
+  "video_url": null,
+  "images": [],
+  "sort_order": 3,
+  "created_at": "2026-05-23T12:56:02.202Z",
+  "updated_at": "2026-07-12T22:07:23.780Z",
+  "tasks": [
+    {
+      "id": "4645a295-bdff-4a17-bf55-04ac9b9f2c66",
+      "lesson_id": "2066f1d5-f0d2-4ef1-80ed-fbb7958bde04",
+      "type": "checkbox",
+      "question": "Приклад маятника:",
+      "image_url": null,
+      "sort_order": 0,
+      "created_at": "2026-05-23T12:56:02.909Z",
+      "options": [
+        {
+          "id": "cdbeeecb-1e08-42f3-9c43-d840955c697d",
+          "task_id": "4645a295-bdff-4a17-bf55-04ac9b9f2c66",
+          "text": "10$ => 20$ => 50$ =>100$",
+          "sort_order": 0
+        },
+        {
+          "id": "3f5c67da-fba0-4654-9c83-4e5195bce312",
+          "task_id": "4645a295-bdff-4a17-bf55-04ac9b9f2c66",
+          "text": "10$ => 20$ =17$ => 50$ => 45$ => 100$",
+          "sort_order": 1
+        }
+      ]
+    }
+  ]
+}

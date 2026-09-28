@@ -1,0 +1,60 @@
+{
+  "id": "c73f8582-5e6e-4cdd-80d6-60da31153ca9",
+  "module_id": "cdb33390-7a79-48d0-a9e4-acd32a53cae3",
+  "lesson_key": "c65a297b",
+  "title": "Прев'ю контенту",
+  "content": "<h1><span style=\"font-size: 36px;\"><span style=\"color: var(--warning);\">Робота з прев'ю в продажах контенту</span></span></h1>\n<p>Після підводки і перед відправкою платного контенту завжди використовуй прев'ю.<br><span style=\"font-size: 0.95rem;\">Це один з найпростіших способів підвищити інтерес і конверсію.<br></span><span style=\"font-size: 0.95rem;\">Логіка проста<br></span><span style=\"font-size: 0.95rem;\">людина більше довіряє, коли спочатку отримує частину цінності, а потім платить</span></p>\n<h2><span style=\"color: var(--warning);\">Чому прев'ю працює</span></h2>\n<ul>\n<li>знімає напругу перед покупкою</li>\n<li>викликає інтерес</li>\n<li>дає відчуття контролю</li>\n<li>підвищує довіру</li>\n</ul>\n<p>Фан бачить частину контенту і хоче більше.</p>\n<p>Це природно підводить його до оплати.</p>\n<h2><span style=\"color: var(--accent);\">2 способи використання прев'ю</span><br><br></h2>\n<h3><span style=\"color: var(--warning);\">1. Через лайф фото</span></h3>\n<p>Ти відправляєш безкоштовне лайф фото.<br><span style=\"font-size: 0.95rem;\">Після цього пропонуєш продовження.</span></p>\n<p>Далі:</p>\n<ul>\n<li>клієнт виявляє інтерес</li>\n<li>ти переводиш у діалог</li>\n<li>починається взаємодія</li>\n<li>підводиш до платного контенту</li>\n</ul>\n<p>Це м'який вхід.</p>\n<p>Особливо добре працює з новими фанами.</p>\n<h3><span style=\"color: var(--warning);\">2. Через пакет контенту</span></h3>\n<p>Ти одразу починаєш взаємодію і відправляєш пакет.<br><span style=\"font-size: 0.95rem;\">Що робиш:</span></p>\n<ul>\n<li>додаєш кілька фото</li>\n<li>ставиш ціну</li>\n<li>одне фото залишаєш безкоштовним</li>\n</ul>\n<p>У результаті:</p>\n<ul>\n<li>перше фото відкрите</li>\n<li>решта закриті</li>\n<li>щоб побачити далі, потрібно сплатити</li>\n</ul>\n<p>Це створює ефект залучення.</p>\n<h2><span style=\"color: var(--warning);\">Як це робити на практиці</span></h2>\n<ol>\n<li>Вибираєш кілька фото</li>\n<li>Ставиш ціну, наприклад 9.99</li>\n<li>Одне фото залишаєш безкоштовним</li>\n<li>Відправляєш пакет</li>\n</ol>\n<p>Фан бачить прев'ю і розуміє, що далі буде цікавіше.</p>\n<p>Це підштовхує до покупки.</p>\n<h2><span style=\"color: var(--warning);\">Важливий момент</span></h2>\n<p>Навіть найсильніше фото можна використати як прев'ю.<br><span style=\"font-size: 0.95rem;\">Головне не віддавати все одразу.<br></span><span style=\"font-size: 0.95rem;\">Залишай інтригу.</span></p>\n<p>Твоє завдання:</p>\n<ul>\n<li>зацікавити</li>\n<li>втягнути в процес</li>\n<li>довести до оплати<br><br></li>\n</ul>\n<h2><span style=\"color: var(--warning);\">Ключова думка</span></h2>\n<p>Не змушуй купувати наосліп.<br><span style=\"font-size: 0.95rem;\">Дай спробувати - і людина сама захоче більше.<br><video controls=\"\" style=\"width:100%;border-radius:8px;margin:12px 0;\"><source src=\"https://nextmodels.space/storage/lesson-videos/uploads/c7feff59-48ae-4585-9295-7c2830e63597.mp4\" type=\"video/mp4\"></video></span></p><p><video controls=\"\" style=\"width:100%;border-radius:8px;margin:12px 0;\"><source src=\"https://nextmodels.space/storage/lesson-videos/uploads/4065bcbb-1fdb-4fef-86d0-1884d81afe92.mp4\" type=\"video/mp4\"></video></p><p><br></p><br><p></p><br><p></p>\n",
+  "video_url": null,
+  "images": [],
+  "sort_order": 0,
+  "created_at": "2026-05-23T12:56:01.780Z",
+  "updated_at": "2026-07-12T22:07:23.780Z",
+  "tasks": [
+    {
+      "id": "7f825a1c-c03e-4c22-bfee-90d930607385",
+      "lesson_id": "c73f8582-5e6e-4cdd-80d6-60da31153ca9",
+      "type": "checkbox",
+      "question": "Коли ми додаємо прев'ю?",
+      "image_url": null,
+      "sort_order": 0,
+      "created_at": "2026-05-23T12:56:02.822Z",
+      "options": [
+        {
+          "id": "9365d03f-aff4-4fa5-a5bc-646e4740ca81",
+          "task_id": "7f825a1c-c03e-4c22-bfee-90d930607385",
+          "text": "Під час створення платного повідомлення.",
+          "sort_order": 0
+        },
+        {
+          "id": "d797f52a-1bb6-4ecd-81d3-8442523406f6",
+          "task_id": "7f825a1c-c03e-4c22-bfee-90d930607385",
+          "text": "Під час підводки",
+          "sort_order": 1
+        }
+      ]
+    },
+    {
+      "id": "67dd15ec-5f56-4799-aef1-49600f80f690",
+      "lesson_id": "c73f8582-5e6e-4cdd-80d6-60da31153ca9",
+      "type": "checkbox",
+      "question": "Навіщо потрібно робити прев'ю?",
+      "image_url": null,
+      "sort_order": 1,
+      "created_at": "2026-05-23T12:56:03.333Z",
+      "options": [
+        {
+          "id": "bb477f24-da2d-4513-9823-63e04e01cf0c",
+          "task_id": "67dd15ec-5f56-4799-aef1-49600f80f690",
+          "text": "Щоб дати фанату зрозуміти, що контент вартий того, щоб його купити.",
+          "sort_order": 0
+        },
+        {
+          "id": "6e174fc0-cea8-4b58-a560-e27e273e86cc",
+          "task_id": "67dd15ec-5f56-4799-aef1-49600f80f690",
+          "text": "Для того щоб фанат хоча б так побачив щось безкоштовно.",
+          "sort_order": 1
+        }
+      ]
+    }
+  ]
+}

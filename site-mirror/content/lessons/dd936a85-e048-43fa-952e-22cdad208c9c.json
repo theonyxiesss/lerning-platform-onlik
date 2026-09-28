@@ -1,0 +1,13 @@
+{
+  "id": "dd936a85-e048-43fa-952e-22cdad208c9c",
+  "module_id": "3c6ec5e0-ed69-4bef-8674-df89aa2b2a10",
+  "lesson_key": "442ef991",
+  "title": "Операції ( фінансові надходження на аккаунт )",
+  "content": "<p><img src=\"https://nextmodels.space/storage/lesson-images/uploads/cdc4f27c-7861-4754-bf71-2d3bedaf3057.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"max-width:100%;border-radius:8px;margin:12px 0;border:1px solid #2a2f42;cursor:zoom-in;\"></p><p><br></p><p></p><div>\n<p><span style=\"font-weight: bold;\">Операції - це вкладка, де відображаються всі оплати повідомлень і чайові.</span><br><span style=\"font-size: 0.95rem;\">Тут є три основні колонки:</span></p><ul>\n<li><strong><span style=\"color: var(--text-primary);\">Сума</span></strong></li>\n</ul><p>Це \"брудні\" гроші. Сума, яку ми ставимо за повідомлення або яку відправляє фан</p><ul>\n<li><strong><span style=\"color: var(--text-primary);\">Чистий прибуток</span></strong></li>\n</ul><p>OnlyFans утримує 20% з кожного платежу і залишає чистий прибуток у цьому стовпці</p><ul>\n<li><strong><span style=\"color: var(--text-primary);\">Опис</span></strong></li></ul><p><span style=\"font-size: 0.95rem;\">Твій баланс рахується з усіх оплат за платні повідомлення ( payment for message )&nbsp; і чайових ( Tip ), які приходять під час зміни.<br></span><span style=\"font-size: 0.95rem;\">Але враховується саме чистий дохід, тобто після вирахування 20% комісії.</span></p><h1><br></h1>\n</div>",
+  "video_url": null,
+  "images": [],
+  "sort_order": 5,
+  "created_at": "2026-09-18T14:11:25.028Z",
+  "updated_at": "2026-09-19T18:11:50.379Z",
+  "tasks": []
+}

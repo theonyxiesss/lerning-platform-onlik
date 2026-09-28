@@ -1,0 +1,60 @@
+{
+  "id": "da4b439f-f471-4fa5-9321-d5caafc9bf01",
+  "module_id": "b9f53a52-151a-4e92-a52f-fb34ed157a70",
+  "lesson_key": "125686bf",
+  "title": "Messages (чати)",
+  "content": "<img src=\"https://nextmodels.space/storage/lesson-images/uploads/981310f6-e872-4359-96c8-d87e1c0545aa.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"border-radius: 8px; border: 1px solid rgb(42, 47, 66); cursor: zoom-in;\"><div><br></div><div><img src=\"https://nextmodels.space/storage/lesson-images/uploads/4e50f3a1-61cf-4021-ab65-0c161dc8d7ca.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"border-radius: 8px; border: 1px solid rgb(42, 47, 66); cursor: zoom-in;\"></div><div><br></div><div><span style=\"font-size: 36px;\"><span style=\"font-size: 28px;\"><span style=\"color: var(--text-secondary);\"><span style=\"color: var(--text-primary);\"><span style=\"color: var(--warning);\">Розбір функцій зліва направо</span></span></span></span></span></div><div><img src=\"https://nextmodels.space/storage/lesson-images/uploads/08d29c6d-3afa-403f-9645-9e554242bcee.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"border-radius: 8px; border: 1px solid rgb(42, 47, 66); cursor: zoom-in;\"></div><div><ul>\n<li><span style=\"color: var(--text-primary);\">Додати медіа з ПК</span></li>\n</ul>\n<p>‼️ ми не використовуємо, беремо тільки зі сховища</p>\n<ul>\n<li><span style=\"color: var(--text-primary);\">Додати гіфку</span></li>\n<li><span style=\"color: var(--text-primary);\">Записати відео</span></li>\n</ul>\n<p>‼️ не використовуємо</p>\n<ul>\n<li><span style=\"color: var(--text-primary);\">Записати голосове повідомлення</span></li>\n</ul>\n<p>‼️ не використовуємо</p>\n<ul>\n<li><span style=\"color: var(--text-primary);\">Додати медіа зі сховища</span></li>\n<li><span style=\"color: var(--text-primary);\">Додати медіа з MediaHub</span></li>\n</ul>\n<p>‼️ не використовуємо<br><br></p><ul><span style=\"color: var(--text-primary);\"><li>Заплановане повідомлення</li>\n<li>Ціна</li>\n<li>Тег</li>\n<li>Формат тексту</li>\n<li>Стиль написання</li>\n<li>Вбудований перекладач</li>\n<li>Send</li></span><li></li>\n</ul>\n<p>Можна відправляти, але простіше натиснути Enter</p>\n<ul>\n<li><span style=\"color: var(--text-primary);\">Значок годинника</span></li>\n</ul>\n<p>Заплановане повідомлення<br><span style=\"font-size: 0.95rem;\">З цього списку ми використовуємо лише частину функцій.</span></p>\n<p><span style=\"color: var(--text-primary);\">Основні:</span></p>\n<ul>\n<li><span style=\"color: var(--text-primary);\">Додати гіфку</span></li>\n</ul>\n<p>Використовуємо часто, оскільки це допомагає передавати емоції</p><ul><span style=\"color: var(--text-primary);\"><li>Додати медіа зі сховища</li>\n<li>Ціна</li></span>\n</ul>\n<p>Це ключові інструменти для роботи</p><p><img src=\"https://nextmodels.space/storage/lesson-images/uploads/6270e524-28da-4edd-a2fb-2ee74ccf1065.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"border-radius: 8px; border: 1px solid rgb(42, 47, 66); cursor: zoom-in;\"></p><p><img src=\"https://nextmodels.space/storage/lesson-images/uploads/7695545c-3fbc-44d8-a108-7ca8c04788c7.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"border-radius: 8px; border: 1px solid rgb(42, 47, 66); cursor: zoom-in;\"></p><p><img src=\"https://nextmodels.space/storage/lesson-images/uploads/d9a36ff1-f5c5-4be2-b5df-aab8322d0f8f.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"border-radius: 8px; border: 1px solid rgb(42, 47, 66); cursor: zoom-in;\"></p>\n</div>",
+  "video_url": null,
+  "images": [],
+  "sort_order": 3,
+  "created_at": "2026-05-23T12:56:02.158Z",
+  "updated_at": "2026-07-12T22:07:23.780Z",
+  "tasks": [
+    {
+      "id": "6e6526cf-cc8c-4588-b970-adb4f2686be0",
+      "lesson_id": "da4b439f-f471-4fa5-9321-d5caafc9bf01",
+      "type": "textarea",
+      "question": "Для того щоб прикріпити фото/відео в повідомлення, на що потрібно натиснути?",
+      "image_url": null,
+      "sort_order": 0,
+      "created_at": "2026-05-24T08:15:33.195Z",
+      "options": [
+        {
+          "id": "56e32296-f573-4c57-8236-b49f8f15c1b6",
+          "task_id": "6e6526cf-cc8c-4588-b970-adb4f2686be0",
+          "text": "",
+          "sort_order": 0
+        },
+        {
+          "id": "ccd218b9-d3a1-4ecd-a560-f7c8aa4164c5",
+          "task_id": "6e6526cf-cc8c-4588-b970-adb4f2686be0",
+          "text": "",
+          "sort_order": 1
+        }
+      ]
+    },
+    {
+      "id": "20286096-33b3-4195-a9f2-77e8428b4a8a",
+      "lesson_id": "da4b439f-f471-4fa5-9321-d5caafc9bf01",
+      "type": "textarea",
+      "question": "Як зробити повідомлення платним?",
+      "image_url": null,
+      "sort_order": 1,
+      "created_at": "2026-05-24T08:15:33.298Z",
+      "options": [
+        {
+          "id": "e0804087-8cc5-4f05-a271-81f7b81e874a",
+          "task_id": "20286096-33b3-4195-a9f2-77e8428b4a8a",
+          "text": "",
+          "sort_order": 0
+        },
+        {
+          "id": "4fc06ea3-8889-42f5-b969-a19d85548303",
+          "task_id": "20286096-33b3-4195-a9f2-77e8428b4a8a",
+          "text": "",
+          "sort_order": 1
+        }
+      ]
+    }
+  ]
+}

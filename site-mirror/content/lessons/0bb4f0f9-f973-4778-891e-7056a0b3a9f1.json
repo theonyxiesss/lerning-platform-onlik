@@ -1,0 +1,60 @@
+{
+  "id": "0bb4f0f9-f973-4778-891e-7056a0b3a9f1",
+  "module_id": "b9f53a52-151a-4e92-a52f-fb34ed157a70",
+  "lesson_key": "0c1a05e2",
+  "title": "Vault (контент)",
+  "content": "<img src=\"https://nextmodels.space/storage/lesson-images/uploads/13c1fae6-ed03-40a2-9fa9-793e95175a46.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"border-radius: 8px; border: 1px solid rgb(42, 47, 66); cursor: zoom-in;\"><div><br><div><span style=\"font-size: 28px;\"><span style=\"color: var(--warning);\">Vault</span></span></div><div><img src=\"https://nextmodels.space/storage/lesson-images/uploads/adaa7c05-a84e-41c8-95a4-b7798323ba51.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"border-radius: 8px; border: 1px solid rgb(42, 47, 66); cursor: zoom-in;\"></div><div><p><span style=\"color: var(--accent);\"><span style=\"color: var(--text-secondary);\">Відкриється наше сховище.</span></span><br><span style=\"font-size: 0.95rem;\"><span style=\"color: var(--danger);\">Контент у галерею ти не завантажуєш.</span><br></span><span style=\"font-size: 0.95rem;\">Для чатів ти завжди використовуєш тільки те, що вже є всередині.<br></span><span style=\"font-size: 0.95rem;\"></span><span style=\"color: var(--warning);\"><span style=\"font-size: 0.95rem;\">Зверни увагу на папки.<br></span><span style=\"font-size: 0.95rem;\">Саме ти будеш створювати їх для зручної навігації.</span></span><span style=\"font-size: 0.95rem;\"><br></span><span style=\"font-size: 0.95rem;\">Вони потрібні, щоб швидко знаходити потрібний контент.</span></p><p><img src=\"https://nextmodels.space/storage/lesson-images/uploads/878f71ed-b0ff-46d5-8c72-d82f2c3ba176.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"border-radius: 8px; border: 1px solid rgb(42, 47, 66); cursor: zoom-in;\"></p><p><img src=\"https://nextmodels.space/storage/lesson-images/uploads/f938ca27-48f9-48c1-bebf-4685799ede09.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"border-radius: 8px; border: 1px solid rgb(42, 47, 66); cursor: zoom-in;\"></p>\n</div></div>",
+  "video_url": null,
+  "images": [],
+  "sort_order": 6,
+  "created_at": "2026-05-23T12:56:02.466Z",
+  "updated_at": "2026-07-12T22:07:23.780Z",
+  "tasks": [
+    {
+      "id": "183e7ae6-ad1d-4578-b3a6-8b1085dc6fbb",
+      "lesson_id": "0bb4f0f9-f973-4778-891e-7056a0b3a9f1",
+      "type": "textarea",
+      "question": "Для того щоб зробити пошук по папках, що необхідно зробити?",
+      "image_url": null,
+      "sort_order": 0,
+      "created_at": "2026-05-23T12:56:02.779Z",
+      "options": [
+        {
+          "id": "663bad97-a419-4f9b-956e-383bfada3ee5",
+          "task_id": "183e7ae6-ad1d-4578-b3a6-8b1085dc6fbb",
+          "text": "",
+          "sort_order": 0
+        },
+        {
+          "id": "f0d15594-6434-4d48-89e4-1c4257b79df6",
+          "task_id": "183e7ae6-ad1d-4578-b3a6-8b1085dc6fbb",
+          "text": "",
+          "sort_order": 1
+        }
+      ]
+    },
+    {
+      "id": "96b1f166-dfae-4a0f-87d7-8f8c07d7bee3",
+      "lesson_id": "0bb4f0f9-f973-4778-891e-7056a0b3a9f1",
+      "type": "textarea",
+      "question": "Ти завантажуєш контент на сторінку?",
+      "image_url": null,
+      "sort_order": 1,
+      "created_at": "2026-05-23T12:56:03.291Z",
+      "options": [
+        {
+          "id": "7cbfc1bb-b112-4ca9-9e26-3f80fd0c44b0",
+          "task_id": "96b1f166-dfae-4a0f-87d7-8f8c07d7bee3",
+          "text": "",
+          "sort_order": 0
+        },
+        {
+          "id": "447a6575-45e7-4fad-b82e-bd20c4532e7e",
+          "task_id": "96b1f166-dfae-4a0f-87d7-8f8c07d7bee3",
+          "text": "",
+          "sort_order": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "b98dcf7b-efce-4c82-8091-1ac1bb280770",
+  "module_id": "dd0dc989-b0e8-4ea3-be66-2e9cfcba3280",
+  "lesson_key": "d775c912",
+  "title": "Драбина продажів",
+  "content": "<img src=\"https://nextmodels.space/storage/lesson-images/uploads/6181cf8a-75ac-46b1-bba4-f4b5c3b65cfa.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"max-width:100%;border-radius:8px;margin:12px 0;border:1px solid #2a2f42;cursor:zoom-in;\"><h1><span style=\"color: var(--warning);\">Що таке сліпа прайс-зона</span></h1><p>Це ціна за одиницю контенту, яку фан сприймає як нормальну і не дратівливу.<br><span style=\"font-size: 0.95rem;\">На перший погляд це може здаватися дрібницею, поки ти не побачиш, як працює принцип<br></span><span style=\"font-size: 0.95rem;\">19.99 замість 20<br></span><span style=\"font-size: 0.95rem;\">Фан купить більше контенту по 19.99, ніж по 20.<br></span><span style=\"font-size: 0.95rem;\">Це реально перевірений роками підхід.</span></p><p>Перехід на нову \"десятку\" може викликати у фана зайві сумніви.<br><span style=\"font-size: 0.95rem;\">І через це він може відмовитися від покупки.</span></p><p>Часта ситуація<br><span style=\"font-size: 0.95rem;\">у діапазоні 15–19 продажі йдуть стабільно<br></span><span style=\"font-size: 0.95rem;\">але спроба поставити 21 може одразу знизити конверсію</span></p><p><span style=\"font-size: 0.95rem;\"><img src=\"https://nextmodels.space/storage/lesson-images/uploads/7ff34c18-635a-4541-8174-40e6f5d1e9c2.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"max-width:100%;border-radius:8px;margin:12px 0;border:1px solid #2a2f42;cursor:zoom-in;\"></span></p><p><br></p><br><p></p>",
+  "video_url": null,
+  "images": [],
+  "sort_order": 2,
+  "created_at": "2026-09-18T14:11:25.028Z",
+  "updated_at": "2026-09-18T14:11:25.028Z",
+  "tasks": [
+    {
+      "id": "4d4e856e-dbbd-4fdf-84a6-20302dbc4f34",
+      "lesson_id": "b98dcf7b-efce-4c82-8091-1ac1bb280770",
+      "type": "checkbox",
+      "question": "Що таке сліпа цінова зона?",
+      "image_url": null,
+      "sort_order": 0,
+      "created_at": "2026-09-18T14:11:25.028Z",
+      "options": [
+        {
+          "id": "531ce6ac-d788-4a9d-a3a6-4ff62796c5a9",
+          "task_id": "4d4e856e-dbbd-4fdf-84a6-20302dbc4f34",
+          "text": "Це ціна за одиницю контенту, яку фанат вважає доречною і не дратівливою.",
+          "sort_order": 0
+        },
+        {
+          "id": "f7b99b48-8f30-4c4c-9a3b-b2e9b7c6f3d0",
+          "task_id": "4d4e856e-dbbd-4fdf-84a6-20302dbc4f34",
+          "text": "Це ціна, яка дратує фаната.",
+          "sort_order": 1
+        }
+      ]
+    }
+  ]
+}

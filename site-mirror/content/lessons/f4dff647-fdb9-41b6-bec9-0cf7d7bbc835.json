@@ -1,0 +1,60 @@
+{
+  "id": "f4dff647-fdb9-41b6-bec9-0cf7d7bbc835",
+  "module_id": "3c6ec5e0-ed69-4bef-8674-df89aa2b2a10",
+  "lesson_key": "125686bf",
+  "title": "Діалоги",
+  "content": "<div><br></div><div><p><img src=\"https://nextmodels.space/storage/lesson-images/uploads/fa67c7fb-8a74-4a88-bf96-df6d08e804a5.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"max-width:100%;border-radius:8px;margin:12px 0;border:1px solid #2a2f42;cursor:zoom-in;\"></p><p><br></p><br><p></p></div><div><span style=\"font-size: 36px;\"><span style=\"font-size: 28px;\"><span style=\"color: var(--text-secondary);\"><span style=\"color: var(--text-primary);\"><span style=\"color: var(--warning);\">Розбір функцій зліва направо<br><img src=\"https://nextmodels.space/storage/lesson-images/uploads/ac0d9a69-1bb0-4cd4-85a0-1517b212e57d.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"max-width:100%;border-radius:8px;margin:12px 0;border:1px solid #2a2f42;cursor:zoom-in;\"><p><br></p><br></span></span></span></span></span></div><div><span style=\"color: var(--text-primary); font-size: 0.95rem;\">Додати медіа зі Сховища ( Vault )&nbsp;</span><img src=\"https://nextmodels.space/storage/lesson-images/uploads/c73b40af-e3cb-4f06-8af3-140b6a969138.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"color: var(--text-primary); font-size: 0.95rem; border-radius: 8px; border: 1px solid rgb(42, 47, 66); cursor: zoom-in;\"><hr style=\"border:none;border-top:1px solid #2a2f42;margin:16px 0;\">прикріпити GIF - можна часто використовувати для емоційного наповнення діалогу<img src=\"https://nextmodels.space/storage/lesson-images/uploads/b1da4458-79da-4a3d-b702-99e7f92e4f1c.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"max-width:100%;border-radius:8px;margin:12px 0;border:1px solid #2a2f42;cursor:zoom-in;\"><hr style=\"border:none;border-top:1px solid #2a2f42;margin:16px 0;\">встановити ціну - також використовуємо, коли відправляємо платне з контентом повідомлення<img src=\"https://nextmodels.space/storage/lesson-images/uploads/069334f9-8416-42c7-991d-950c0fd87641.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"max-width:100%;border-radius:8px;margin:12px 0;border:1px solid #2a2f42;cursor:zoom-in;\"><hr style=\"border:none;border-top:1px solid #2a2f42;margin:16px 0;\"><span style=\"font-weight: bold;\">Автопереклад</span> - вибрати на яку мову перекласти повідомлення, припустим написали на українській - і відправити його на англійській. І також позначена гаряча комбінація клавіш, щоб щоразу не натискати на цю функцію. <span style=\"font-weight: bold;\">На Windows це Alt+S, на МасOS - Option+S</span><br><span style=\"font-weight: bold;\">Очистити і Відправити</span> - як і у звичайному мессенджері, та ж функція<img src=\"https://nextmodels.space/storage/lesson-images/uploads/7ee62b3d-4712-4e31-bf91-3c3134e80510.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"max-width:100%;border-radius:8px;margin:12px 0;border:1px solid #2a2f42;cursor:zoom-in;\"><p><br></p><br><br>\n<span style=\"font-size: 36px;\">‼️<span style=\"color: var(--text-primary);\">\n\n<span style=\"font-weight: bold;\">Всі інші функції тобі не знадобляться в роботі, і їх не використовуємо</span></span><span style=\"font-weight: bold;\">\n</span>‼️</span>\n\n<br><p><br></p><ul>\n</ul>\n<p><br></p>\n</div>",
+  "video_url": null,
+  "images": [],
+  "sort_order": 3,
+  "created_at": "2026-09-18T14:11:25.028Z",
+  "updated_at": "2026-09-19T18:07:04.899Z",
+  "tasks": [
+    {
+      "id": "43f753e4-d51d-4414-8b7b-dfa1bd95c2fa",
+      "lesson_id": "f4dff647-fdb9-41b6-bec9-0cf7d7bbc835",
+      "type": "textarea",
+      "question": "Для того щоб прикріпити фото/відео в повідомлення, на що потрібно натиснути?",
+      "image_url": null,
+      "sort_order": 0,
+      "created_at": "2026-09-19T18:07:04.965Z",
+      "options": [
+        {
+          "id": "032ce550-401f-4566-b145-d7c526e6f7c0",
+          "task_id": "43f753e4-d51d-4414-8b7b-dfa1bd95c2fa",
+          "text": "",
+          "sort_order": 0
+        },
+        {
+          "id": "e6a858a9-0f9e-49a1-8ff9-e65687c3995b",
+          "task_id": "43f753e4-d51d-4414-8b7b-dfa1bd95c2fa",
+          "text": "",
+          "sort_order": 1
+        }
+      ]
+    },
+    {
+      "id": "a46d8b2f-1bde-4a11-a856-790d94bfcf5d",
+      "lesson_id": "f4dff647-fdb9-41b6-bec9-0cf7d7bbc835",
+      "type": "textarea",
+      "question": "Як зробити повідомлення платним?",
+      "image_url": null,
+      "sort_order": 1,
+      "created_at": "2026-09-19T18:07:04.965Z",
+      "options": [
+        {
+          "id": "2559bcec-7d12-434e-a8fe-951017056b89",
+          "task_id": "a46d8b2f-1bde-4a11-a856-790d94bfcf5d",
+          "text": "",
+          "sort_order": 0
+        },
+        {
+          "id": "b5e8aa05-db63-4506-9213-743fa68215bd",
+          "task_id": "a46d8b2f-1bde-4a11-a856-790d94bfcf5d",
+          "text": "",
+          "sort_order": 1
+        }
+      ]
+    }
+  ]
+}

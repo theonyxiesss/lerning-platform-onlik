@@ -1,0 +1,37 @@
+{
+  "id": "b3ce254d-645c-4d5c-a632-e81835acfd64",
+  "module_id": "db1ed051-3f37-4795-8d94-35e1b9020892",
+  "lesson_key": "ef46fd59",
+  "title": "Унікальний ID",
+  "content": "<div style=\"\"><font color=\"#f59e0b\"><span style=\"font-size: 15.2px;\"></span></font></div><div style=\"color: var(--text-secondary);\"><span style=\"color: var(--text-primary);\">Введи в пошуку в Telegram</span>&nbsp;<span style=\"font-size: 0.95rem;\">@getmyid_bot</span></div><div style=\"color: var(--text-secondary);\"><p>Потім у самому боті натисни \"Почати\" або введи /start<br><img src=\"https://nextmodels.space/storage/lesson-images/uploads/aef2df1c-520e-422b-964f-1abba68006bc.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"max-width:100%;border-radius:8px;margin:12px 0;border:1px solid #2a2f42;cursor:zoom-in;\"></p><p><br></p><br><span style=\"color: var(--text-secondary); font-size: 0.95rem;\">Після цього бот покаже твій унікальний ID, який прив'язаний тільки до тебе<br></span><span style=\"color: var(--text-secondary); font-size: 0.95rem;\">Так виглядає чат з ботом<br><img src=\"https://nextmodels.space/storage/lesson-images/uploads/f7093b28-ab06-428d-8407-bce4f930d357.webp\" alt=\"Lesson Image\" class=\"lesson-image\" data-fullscreen=\"\" loading=\"lazy\" decoding=\"async\" style=\"max-width:100%;border-radius:8px;margin:12px 0;border:1px solid #2a2f42;cursor:zoom-in;\"><p><br></p><br></span><p></p><p>Цей ID потрібен нам для звітності співробітників та зручної ідентифікації<br><strong style=\"color: var(--text-secondary); font-size: 0.95rem;\"><span style=\"color: var(--warning);\">Важливо!</span></strong><span style=\"color: var(--text-secondary); font-size: 0.95rem;\">\nпотрібен саме TG ID і нічого іншого</span></p><p></p><p><span style=\"color: var(--text-secondary); font-size: 0.95rem;\"><br></span></p></div><div style=\"\"><font style=\"\"><p></p></font></div><div style=\"\"><font color=\"#f59e0b\"><span style=\"font-size: 15.2px;\"></span></font></div>",
+  "video_url": null,
+  "images": [],
+  "sort_order": 1,
+  "created_at": "2026-05-23T12:56:01.924Z",
+  "updated_at": "2026-07-12T22:07:23.780Z",
+  "tasks": [
+    {
+      "id": "19deecea-9401-4399-b8bf-6b8e1b48699d",
+      "lesson_id": "b3ce254d-645c-4d5c-a632-e81835acfd64",
+      "type": "textarea",
+      "question": "Твій ID в Телеграм",
+      "image_url": null,
+      "sort_order": 0,
+      "created_at": "2026-06-05T13:25:25.260Z",
+      "options": [
+        {
+          "id": "d928c33c-0323-470c-a7d6-27205d504aae",
+          "task_id": "19deecea-9401-4399-b8bf-6b8e1b48699d",
+          "text": "",
+          "sort_order": 0
+        },
+        {
+          "id": "9e975350-c793-4547-bb54-c2463d6da03b",
+          "task_id": "19deecea-9401-4399-b8bf-6b8e1b48699d",
+          "text": "",
+          "sort_order": 1
+        }
+      ]
+    }
+  ]
+}

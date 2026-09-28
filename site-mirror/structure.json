@@ -1,0 +1,127 @@
+{
+  "source": "https://nextmodels.space",
+  "entryUrl": "https://nextmodels.space/lessons/efec156f-8b48-4d22-a62b-82aea0379a68/cdb33390-7a79-48d0-a9e4-acd32a53cae3",
+  "kind": "Vite React SPA. Every HTML route returns the same index.html. Course content is not in HTML.",
+  "apiBase": "https://nextmodels.space/api",
+  "auth": {
+    "cookie": true,
+    "contentEndpoint": "GET /api/lessons/themes",
+    "status": 401,
+    "message": "Требуется авторизация"
+  },
+  "idsFromUrl": {
+    "themeId": "efec156f-8b48-4d22-a62b-82aea0379a68",
+    "moduleId": "cdb33390-7a79-48d0-a9e4-acd32a53cae3",
+    "routePattern": "/lessons/:themeId/:moduleId"
+  },
+  "frontendRoutes": [
+    { "path": "/login", "page": "Login" },
+    { "path": "/courses", "page": "Courses (themes)" },
+    { "path": "/modules/:themeId", "page": "Modules of a theme" },
+    { "path": "/lessons/:themeId/:moduleId", "page": "Lessons of a module" },
+    { "path": "/training", "page": "Training inbox (lazy TrainingPage)" },
+    { "path": "/admin", "page": "Admin (lazy AdminPage)" }
+  ],
+  "contentTree": {
+    "endpoint": "GET /lessons/themes",
+    "shape": "themes[] -> modules[] -> lessons[] -> tasks[]",
+    "theme": ["id", "title", "title_uk", "modules"],
+    "module": ["id", "title", "title_uk", "lessons"],
+    "lesson": ["id", "title", "content (html)", "video_url", "tasks"],
+    "task": ["id", "type (checkbox|textarea)", "question", "image_url", "sort_order", "options"],
+    "option": ["id", "text", "is_correct"],
+    "progress": ["theme_id", "lesson_id", "started", "completed", "data.checkedOptions", "data.textInputs"]
+  },
+  "api": {
+    "public": [
+      "GET /settings/branding"
+    ],
+    "auth": [
+      "POST /auth/login",
+      "POST /auth/logout",
+      "POST /auth/logout-all",
+      "GET /auth/me",
+      "POST /auth/register"
+    ],
+    "learning": [
+      "GET /lessons/themes",
+      "POST /lessons/themes",
+      "PUT /lessons/themes/:id",
+      "PUT /lessons/themes/reorder",
+      "POST /lessons/modules",
+      "PUT /lessons/modules/:id",
+      "PUT /lessons/modules/reorder",
+      "POST /lessons/lessons",
+      "GET /lessons/lessons/:id",
+      "PUT /lessons/lessons/:id",
+      "PUT /lessons/lessons/reorder",
+      "POST /lessons/upload",
+      "GET /lessons/impact/:type/:id",
+      "DELETE /lessons/:type/:id",
+      "GET /progress/my",
+      "POST /progress",
+      "GET /progress/all",
+      "GET /progress/user/:id"
+    ],
+    "admin": [
+      "GET /users",
+      "DELETE /users/:id",
+      "PUT /users/:id/themes",
+      "PUT /users/themes/bulk",
+      "PUT /users/:id/training",
+      "PUT /users/training/bulk",
+      "POST /users/:id/reset-password",
+      "POST /users/:id/mark-escaped",
+      "GET /tenants",
+      "POST /tenants",
+      "PUT /tenants/:id",
+      "POST /tenants/:id/hr",
+      "PUT /tenants/:id/hr/:hrId",
+      "POST /tenants/:id/hr/:hrId/reset-password",
+      "PUT /settings/branding"
+    ],
+    "training": [
+      "GET /training/models",
+      "POST /training/models",
+      "GET /training/models/:id",
+      "PUT /training/models/:id",
+      "DELETE /training/models/:id",
+      "GET /training/fans",
+      "POST /training/fans",
+      "PUT /training/fans/:id",
+      "DELETE /training/fans/:id",
+      "GET /training/students",
+      "GET /training/students/:id/models",
+      "PUT /training/students/:id/models",
+      "POST /training/students/:id/done",
+      "GET /training/messages",
+      "POST /training/messages",
+      "PUT /training/messages/:id",
+      "DELETE /training/messages/:id",
+      "GET /training/inbox",
+      "POST /training/inbox/trigger",
+      "GET /training/conversations",
+      "GET /training/conversations/:userId/:fanId",
+      "GET /training/ai",
+      "PUT /training/ai",
+      "GET /training/ai/defaults",
+      "POST /training/ai/preview",
+      "POST /training/ai/test",
+      "POST /translate"
+    ]
+  },
+  "downloadedPublicFiles": [
+    "www/index.html",
+    "www/assets/index-5v4MCq-6.js",
+    "www/assets/index-Cf1EpDSz.css",
+    "www/assets/vendor-react-BzvTh78-.js",
+    "www/assets/vendor-ui-vUwQpsEI.js",
+    "www/assets/AdminPage-BOTYS0ox.js",
+    "www/assets/TrainingPage-wX7Kblwo.js",
+    "www/assets/TrainingPage-Cl1dxJmm.css",
+    "www/api/settings/branding.json",
+    "www/storage/lesson-images/uploads/19cd0483-2e9e-4017-9139-54d10c8843d0.webp",
+    "www/storage/lesson-images/uploads/5c9b5dac-6d6a-411f-a68e-6bf11f19de4c.webp"
+  ],
+  "notDownloaded": "Themes, modules, lesson HTML, videos and task media require a logged-in session cookie. GET /api/lessons/themes and GET /api/lessons/lessons/:id return 401."
+}

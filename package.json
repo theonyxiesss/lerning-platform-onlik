@@ -1,0 +1,7 @@
+{
+  "name": "lerning-platform-onlik",
+  "private": true,
+  "scripts": {
+    "start": "node site-mirror/server.js"
+  }
+}
